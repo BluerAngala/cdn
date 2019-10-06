@@ -1,5 +1,7 @@
+/**/
 #veditor {
-    background-image: url(https://view.moezx.cc/images/2018/03/24/comment-bg.png);
+    /*background-image: url(https://view.moezx.cc/images/2018/03/24/comment-bg.png);*/
+    background-image: url(https://img.vim-cn.com/f1/636b92ad9741dde92c6795f3c41ac26594b907.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
@@ -5367,7 +5369,7 @@ i.iconfont.js-toggle-search.iconsearch {
 }
 .no-logged a {
     display:initial;
-    color:#69d2e7;
+    color:#3ABBFD;
     font-size:14px;
     padding:0 5px;
     text-decoration:underline
